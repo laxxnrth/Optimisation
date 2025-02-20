@@ -37,5 +37,5 @@ Dans un second temps :
     - Application de ruff via `py -m ruff ./projet_sc/lib_projet.py ./tests/test_projet.py`
 
 Interface en ligne :
-![](img\Interface1.JPG)
-![](img\Interface2.JPG)
+![](Interface1.JPG)
+![](Interface2.JPG)
